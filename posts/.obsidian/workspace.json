@@ -1,0 +1,252 @@
+{
+  "main": {
+    "id": "57d0ceb3cc05a3c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd33aedc6c81a930",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "09d4af8097abcc3a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Đạo đức nghiên cứu.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4129f12b34ea0b8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nghiên cứu Khoa học/Các bước cơ bản/Phương pháp nghiên cứu.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "78db4c817849ecb6",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d8e1b7ea32082da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1e93595021d88f6d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "0ad1b06f233a314b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "đạo đức",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "175aa1346ea0c146",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "b3930fdad14220db",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "cd8f66aae56fd17b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "7ba967edcbcda5bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "d5c6d01f74049a15",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c2a14ff1b7798d81",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4831439e6b06a07c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Đạo đức nghiên cứu.md"
+              }
+            }
+          },
+          {
+            "id": "5a148c51c98d7bb5",
+            "type": "leaf",
+            "state": {
+              "type": "reference-map-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "4afe9d5e0c9b4d59",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "6bcc115413ed6733",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Đạo đức nghiên cứu.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6e643bdedf6c088d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Đạo đức nghiên cứu.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "publish:Publish changes...": false,
+      "workspaces:Manage workspace layouts": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "markdown-importer:Open format converter": false,
+      "zk-prefixer:Create new unique note": false,
+      "audio-recorder:Start/stop recording": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false,
+      "reference-map:Reference Map": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
+    }
+  },
+  "active": "09d4af8097abcc3a",
+  "lastOpenFiles": [
+    "Định kiến (Prejudice).md",
+    "Chuyên ngành Tâm lý học/Tâm lý học Xã hội/Chương VII/Quan hệ xã hội.md",
+    "Chuyên ngành Tâm lý học/Tâm lý học Xã hội/Chương VI/A dua, Tuân thủ, Phục tùng.md",
+    "Chuyên ngành Tâm lý học/Tâm lý học Xã hội/Chương IV/Nhận thức xã hội.md",
+    "Chuyên ngành Tâm lý học/Tâm lý học Xã hội/Mục lục về Tâm lý học Xã hội.md",
+    "Ảnh hưởng xã hội.md",
+    "Chuyên ngành Tâm lý học/Tâm lý học Xã hội/Chương V/Thái độ và hành vi.md",
+    "A dua (Conformity).md",
+    "Các yếu tố dẫn đến sự thay đổi thái độ.md",
+    "Nghiên cứu Khoa học/Các bước cơ bản/Phương pháp nghiên cứu.md",
+    "nail2000.pdf",
+    "Starter's pack/wisdomOfModelCrowds.pdf",
+    "Starter's pack/Wisdom-of-the-crowds_to_enhance_innovation_state_o.pdf",
+    "Starter's pack/rutgers-lib-27217_PDF-1.pdf",
+    "Starter's pack/Raghu N. Gaind, Barbara L. Hudson (auth.) - Current Themes in Psychiatry 1-Macmillan Education UK (1978).pdf",
+    "Starter's pack/nail2000.pdf",
+    "Starter's pack/IASC Common Monitoring and Evaluation Framework for Mental Health and Psychosocial Support in Emergency Settings- With means of verification (Version 2.0).pdf",
+    "Starter's pack/evolutionary coopertation.docx",
+    "Starter's pack/DTS.pdf",
+    "Starter's pack/Culture_and_the_Evolution_of_the_Human_Social_Inst.pdf",
+    "Tuân thủ (Compliance).md",
+    "Tính khả thi.md",
+    "Phi cá nhân hoá (Deindividuation).md",
+    "Lười biếng xã hội (Social Loafing).md",
+    "Nghiên cứu Khoa học/Công thức tính Cỡ mẫu định lượng đã biết số lượng quần thể.png",
+    "Nghiên cứu Khoa học/Các bước cơ bản/Công thức tính Quy mô mẫu định tính.png",
+    "Đánh giá khách quan (Định lượng).md",
+    "Citation Index.md",
+    "Đánh giả chủ quan (Định tính).md",
+    "Văn phong học thuật (Academic writing).md",
+    "Seven sins of memory.md",
+    "Thiên lệch trong tiếp nhận thông tin trực tiếp và gián tiếp.md",
+    "Quá trình suy diễn từ kinh nghiệm bản thân.md",
+    "Hermann von Helmholtz.md",
+    "Tâm lý học Nhận thức/Franciscus Donders.md",
+    "Tâm lý học Nhận thức/Mục lục về Tâm lý học Nhận thức.md",
+    "Nghiên cứu Khoa học/Lí do chọn đề tài (Tính cấp thiết).md",
+    "Nghiên cứu Khoa học/Tiến độ nghiên cứu.md",
+    "Pasted image 20230416225651.png",
+    "Nghiên cứu Khoa học/Các bước cơ bản/Công thức tính mẫu đã biết số lượng quần thể.png",
+    "Untitled.canvas"
+  ]
+}
